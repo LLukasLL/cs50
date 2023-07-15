@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: reversed 10000 & 5000- is slowest, random 5k: .152 s , random50k: 7.592 s, needs too many iteratiosn, is slow
+
+sort2 uses: merge sort
+
+How do you know?: reversed 5000 & 10000 is fastest, random 5k: .051 s, random50k: .699 s, handles big data fastest.
+
+sort3 uses: selection sort
+
+How do you know?: random5k: .107 s , random50k: 3.249 s

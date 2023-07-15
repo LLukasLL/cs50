@@ -1,0 +1,26 @@
+.red-text {
+    color: red;
+}
+
+.blue-text-big{
+    color: blue;
+    font-size: 30;
+}
+
+.yellow-background-text {
+    background-color: yellow;
+}
+
+.black-img {
+    border: 5px dotted black;
+    border-radius: 10%;
+}
+
+.yellow-img {
+    border: 25px solid yellow;
+    border-radius: 50%;
+}
+
+.red-img {
+    border: 15px double red;
+}
